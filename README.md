@@ -1,3 +1,2 @@
-# Zodiac 
-this is my first tool
-work of linux / termux app 
+# offensive cybersecuritiy and hacking 🛡🖥💻💀
+this is the first project of linux distros terminal shell  
